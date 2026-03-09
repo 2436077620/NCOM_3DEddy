@@ -17,3 +17,7 @@ Data
 The "NCOM_model" and "SWOTData" folders contain the original data used for testing. All the data sets can be downloaded directly from the webpage provided in the article.
 
 The remaining folders contain the data sets that the author processed and used for figure output.
+
+Figure
+------
+The output by the code.
