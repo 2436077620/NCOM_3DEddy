@@ -14,6 +14,8 @@ Eddy_Dect_bag → Self-written MATLAB functions for eddy detection and analysis
 
 Data
 ------
+The test data are available on https://doi.org/10.5281/zenodo.18932128.
+
 The "NCOM_model" and "SWOTData" folders contain the original data used for testing. All the data sets can be downloaded directly from the webpage provided in the article.
 
 The remaining folders contain the data sets that the author processed and used for figure output.
